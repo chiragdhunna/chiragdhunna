@@ -1,6 +1,7 @@
-<div align="center">
-<img src="[https://postimg.cc/64yPD0zx](https://media.licdn.com/dms/image/D4D03AQEotZ2hGuVZig/profile-displayphoto-shrink_200_200/0/1720537208049?e=1726099200&v=beta&t=miLCbhRXuS9Gj7ZIwOua4dB7FyW5juPIxJOQY_lVkso)" align="center" style="width: 100%" />
+<div align="center" align="center" style="width: 100%">
+![profile_img](https://github.com/chiragdhunna/chiragdhunna/assets/76210441/7bcab350-6607-4c0d-8c26-1783500630c3)
 </div>  
+
   
 
 ### <div align="center">I'm Chirag, a Mobile Developer.</div>  
