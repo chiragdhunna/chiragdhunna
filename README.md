@@ -1,8 +1,4 @@
-<div align="center" align="center" style="width: 100%">
-![profile_img](https://github.com/chiragdhunna/chiragdhunna/assets/76210441/7bcab350-6607-4c0d-8c26-1783500630c3)
-</div>  
-
-  
+![profile_img](https://github.com/chiragdhunna/chiragdhunna/assets/76210441/7bcab350-6607-4c0d-8c26-1783500630c3)  
 
 ### <div align="center">I'm Chirag, a Mobile Developer.</div>  
   
