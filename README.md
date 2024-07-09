@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/chiragdhunna/chiragdhunna/assets/76210441/7bcab350-6607-4c0d-8c26-1783500630c3" width="300" style="border-radius: 50%;" />
-</div>
+<div align="center">
+<img src="[https://postimg.cc/64yPD0zx](https://github.com/chiragdhunna/chiragdhunna/assets/76210441/7bcab350-6607-4c0d-8c26-1783500630c3)" align="center" style="width: 100%" />
+</div>  
 
 
 ### <div align="center">I'm Chirag, a Mobile Developer.</div>  
