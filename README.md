@@ -6,16 +6,13 @@
 ### <div align="center">I'm Chirag, a Mobile Developer.</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+- 🔭 I’m currently working on crafting innovative solutions at Blue Mango Labs  
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+- 🌱 I’m currently learning Flutter and advanced mobile development techniques  
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to mobile development, especially Flutter and Firebase  
   
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use Kali Linux
   
 
 <br/>  
