@@ -12,7 +12,7 @@
 
 - ❓ Ask me about anything related to mobile development, especially Flutter and Firebase  
   
-- ⚡ Fun fact: I use Kali Linux
+- ⚡ Fun fact: I use Arch
   
 
 <br/>  
