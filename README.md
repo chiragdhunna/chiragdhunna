@@ -85,15 +85,22 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chiragdhunna&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chiragdhunna&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
 
 <br/>  
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=chiragdhunna&theme=dark&hide_border=true" alt="GitHub Streak" width="500" height="200"/>
-      </a>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=chiragdhunna&&style=flat-square" align="center" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=chiragdhunna&theme=dark&hide_border=true" alt="GitHub Streak" width="500" height="200"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chiragdhunna&&style=flat-square" align="center" />
 </div>  
 
 <br />
