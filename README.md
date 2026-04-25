@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/chiragdhunna/chiragdhunna/assets/76210441/7bcab350-6607-4c0d-8c26-1783500630c3" width="300" style="border-radius: 50%;" />
+  <img src="https://github.com/user-attachments/assets/7504cd56-ca61-47ab-b54e-484811f1131e" width="300" style="border-radius: 50%;" />
 </div>  
 
 
