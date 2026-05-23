@@ -1,0 +1,16 @@
+<svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="180" fill="#0a0a0a"/>
+  <rect x="0" y="0" width="4" height="180" fill="#e8ff47"/>
+
+  <!-- name -->
+  <text x="32" y="56" font-family="monospace" font-size="13" fill="#555" letter-spacing="3">// full-stack &amp; mobile engineer</text>
+  <text x="30" y="112" font-family="monospace" font-size="58" font-weight="bold" fill="#f0ede6" letter-spacing="-2">CHIRAG</text>
+  <text x="30" y="162" font-family="monospace" font-size="58" font-weight="bold" fill="#e8ff47" letter-spacing="-2">DHUNNA</text>
+
+  <!-- tags right side -->
+  <text x="610" y="80" font-family="monospace" font-size="12" fill="#555">AWS · Azure · Flutter · React</text>
+  <text x="610" y="100" font-family="monospace" font-size="12" fill="#555">Spring Boot · LLM Integration</text>
+  <text x="610" y="120" font-family="monospace" font-size="12" fill="#555">Node.js · PostgreSQL · Firebase</text>
+  <text x="610" y="148" font-family="monospace" font-size="12" fill="#333">──────────────────────</text>
+  <text x="610" y="165" font-family="monospace" font-size="12" fill="#e8ff47">⚡ btw i use arch</text>
+</svg>
