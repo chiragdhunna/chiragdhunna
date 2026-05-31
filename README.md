@@ -32,39 +32,31 @@ Previously at **BlueMango Labs** — Flutter mobile apps, LiveKit real-time infr
 
 ## Experience
 
-<table>
-<tr>
-  <td width="60"><b>2025</b><br/><sub>Present</sub></td>
-  <td>
-    <b>Full Stack Developer — Tata Consultancy Services</b><br/>
-    <sub>AWS · Azure · React · Java · Spring Boot · OAuth2 · LLM/AI</sub><br/><br/>
-    • Enterprise conversational AI platform scaled to <b>10,000+ concurrent users</b> at 99.9% uptime<br/>
-    • Real-time React chatbot interfaces → <b>+30% end-user engagement</b> across 3 production clients<br/>
-    • Spring Boot microservices + OAuth2 → <b>−25% API response latency</b><br/>
-    • LLM/prompt-engineering pipelines across 3 enterprise systems → <b>−40% manual operational workload</b>
-  </td>
-</tr>
-<tr>
-  <td width="60"><b>2024</b><br/><sub>Jul–Dec</sub></td>
-  <td>
-    <b>Software Development Engineer — BlueMango Labs</b><br/>
-    <sub>Flutter · Dart · LiveKit · Fastlane · iOS · Android</sub><br/><br/>
-    • Fastlane build automation → <b>50% shorter release cycles</b>, eliminated manual QA handoffs<br/>
-    • Flutter i18n for 5 languages → expanded into <b>3 new international markets</b><br/>
-    • LiveKit SDK integration → <b>−35% connection failures</b>, live streaming at &lt;500ms for 1,000+ viewers
-  </td>
-</tr>
-<tr>
-  <td width="60"><b>2024</b><br/><sub>Jan–Jun</sub></td>
-  <td>
-    <b>SDE Intern — BlueMango Labs</b><br/>
-    <sub>Flutter · Firebase · REST APIs · A/B Testing</sub><br/><br/>
-    • Redesigned SuperAstro &amp; Kosmic apps (4-round A/B testing) → <b>+25% usability score</b><br/>
-    • Firebase Cloud Messaging push notifications → <b>+20% DAU within 30 days</b><br/>
-    • REST + message broker integration → <b>2× peak-hour traffic capacity</b>
-  </td>
-</tr>
-</table>
+**🏢 Full Stack Developer — Tata Consultancy Services** &nbsp;`2025 – Present`<br/>
+`AWS` `Azure` `React` `Java` `Spring Boot` `OAuth2` `LLM/AI`
+
+- Enterprise conversational AI platform scaled to **10,000+ concurrent users** at 99.9% uptime
+- Real-time React chatbot interfaces → **+30% end-user engagement** across 3 production clients
+- Spring Boot microservices + OAuth2 → **−25% API response latency**
+- LLM/prompt-engineering pipelines across 3 enterprise systems → **−40% manual operational workload**
+
+<br/>
+
+**📱 Software Development Engineer — BlueMango Labs** &nbsp;`Jul – Dec 2024`<br/>
+`Flutter` `Dart` `LiveKit` `Fastlane` `iOS` `Android`
+
+- Fastlane build automation → **50% shorter release cycles**, eliminated manual QA handoffs
+- Flutter i18n for 5 languages → expanded into **3 new international markets**
+- LiveKit SDK integration → **−35% connection failures**, live streaming at <500ms for 1,000+ viewers
+
+<br/>
+
+**🚀 SDE Intern — BlueMango Labs** &nbsp;`Jan – Jun 2024`<br/>
+`Flutter` `Firebase` `REST APIs` `A/B Testing`
+
+- Redesigned SuperAstro & Kosmic apps (4-round A/B testing) → **+25% usability score**
+- Firebase Cloud Messaging push notifications → **+20% DAU within 30 days**
+- REST + message broker integration → **2× peak-hour traffic capacity**
 
 ---
 
@@ -107,27 +99,14 @@ Previously at **BlueMango Labs** — Flutter mobile apps, LiveKit real-time infr
 
 ## Featured Project
 
-<table>
-<tr>
-<td>
-
-**[Montra — Personal Finance Tracker](https://github.com/chiragdhunna)**
+### 💰 [Montra — Personal Finance Tracker](https://github.com/chiragdhunna)
 
 `Flutter` `Node.js` `PostgreSQL` `Express.js` `SQLite` `BLoC` `JWT`
 
 Cross-platform finance tracker with budget planning, multi-account support, and CSV analytics exports.
 
-| Metric | Result |
-|--------|--------|
-| API response time | < 200ms avg |
-| Expense tracking saved | ~3 hrs/week/user |
-| Expense categories | 10+ with real-time dashboard |
-| Auth | JWT + RBAC |
-| Offline support | SQLite offline-first + BLoC |
-
-</td>
-</tr>
-</table>
+⚡ **< 200ms** avg API response &nbsp;·&nbsp; 🗂️ **10+ categories** with real-time dashboard &nbsp;·&nbsp; ⏱️ Saves **~3 hrs/week/user**<br/>
+🔐 JWT + RBAC auth &nbsp;·&nbsp; 📴 SQLite offline-first + BLoC state management
 
 ---
 
