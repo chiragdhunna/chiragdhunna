@@ -135,11 +135,11 @@ Cross-platform finance tracker with budget planning, multi-account support, and 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chiragdhunna&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e8ff47&text_color=c9d1d9&icon_color=ff6b35" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chiragdhunna&theme=dark&hide_border=true&background=0d1117&ring=e8ff47&fire=ff6b35&currStreakLabel=e8ff47" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragdhunna&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8ff47&text_color=c9d1d9" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragdhunna&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8ff47&text_color=c9d1d9" height="130" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragdhunna&bg_color=0d1117&color=e8ff47&line=ff6b35&point=e8ff47&area=true&area_color=ff6b35&hide_border=true" width="100%" />
 </div>
 
 ---
