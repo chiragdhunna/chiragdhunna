@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragdhunna&bg_color=0d1117&color=e8ff47&line=ff6b35&point=e8ff47&area=true&area_color=ff6b35&hide_border=true" width="100%" />
+  <img src="https://ghchart.rshah.org/e8ff47/chiragdhunna" width="100%" alt="GitHub contribution chart" />
 </div>
 
 </details>
