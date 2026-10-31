@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="450" viewBox="0 0 1000 450" role="img" aria-label="Career history rendered as a git log graph">
+  <style>
+    text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace;font-size:14px;fill:#c9d1d9}
+    .h{fill:#e8ff47;font-weight:700}
+    .hash{fill:#ff6b35;font-weight:700}
+    .dim{fill:#8b949e}
+    .tag{fill:#27c93f}
+    .grn{fill:#27c93f}
+    .lane{fill:none;stroke-width:3;stroke-linecap:round;stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 2.2s ease-out forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .c{opacity:0;animation:pop .5s ease-out forwards}
+    @keyframes pop{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-in-out infinite}
+    @keyframes pulse{50%{transform:scale(1.35)}}
+  </style>
+
+  <rect width="1000" height="450" rx="14" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="999" height="449" rx="14" fill="none" stroke="#30363d"/>
+  <text x="30" y="36" class="dim"><tspan fill="#e8ff47">$</tspan> git log --graph --oneline --decorate career</text>
+
+  <!-- lanes -->
+  <path class="lane" d="M60 80 L60 400" stroke="#ff6b35"/>
+  <path class="lane" d="M60 180 C60 200 100 190 100 212 L100 308 C100 362 60 350 60 400" stroke="#e8ff47" style="animation-delay:.6s"/>
+
+  <!-- commit dots -->
+  <circle class="pulse" cx="60" cy="80" r="8" fill="#ff6b35"/>
+  <circle cx="100" cy="212" r="7" fill="#e8ff47"/>
+  <circle cx="100" cy="308" r="7" fill="#e8ff47"/>
+  <circle cx="60" cy="400" r="8" fill="#58a6ff"/>
+
+  <!-- TCS -->
+  <g class="c" style="animation-delay:.4s">
+    <text x="150" y="85"><tspan class="hash">a7f3c21</tspan> <tspan class="tag">(HEAD → main)</tspan> <tspan class="h">Full Stack Developer @ Tata Consultancy Services</tspan> <tspan class="dim">· 2025 – now</tspan></text>
+    <text x="150" y="110" class="dim">│ AWS · Azure · React · Java · Spring Boot · OAuth2 · LLM/AI</text>
+    <text x="150" y="132">│ <tspan class="grn">+</tspan> conversational AI platform → 10,000+ concurrent users, 99.9% uptime</text>
+    <text x="150" y="152">│ <tspan class="grn">+</tspan> React chatbot UIs → +30% engagement across 3 production clients</text>
+    <text x="150" y="172">│ <tspan class="grn">+</tspan> Spring Boot + OAuth2 → −25% API latency · LLM pipelines → −40% manual load</text>
+  </g>
+
+  <!-- BML SDE -->
+  <g class="c" style="animation-delay:1.1s">
+    <text x="150" y="217"><tspan class="hash">5c9e0b4</tspan> <tspan class="h">Software Development Engineer @ BlueMango Labs</tspan> <tspan class="dim">· Jul – Dec 2024</tspan></text>
+    <text x="150" y="242" class="dim">│ Flutter · Dart · LiveKit · Fastlane · iOS · Android</text>
+    <text x="150" y="264">│ <tspan class="grn">+</tspan> Fastlane automation → 50% shorter release cycles</text>
+    <text x="150" y="284">│ <tspan class="grn">+</tspan> i18n for 5 languages → 3 new markets · LiveKit → −35% connection failures,</text>
+    <text x="150" y="302">│   <tspan class="dim">live streaming &lt;500ms for 1,000+ viewers</tspan></text>
+  </g>
+
+  <!-- BML intern -->
+  <g class="c" style="animation-delay:1.6s">
+    <text x="150" y="313"><tspan class="hash">e12d8aa</tspan> <tspan class="h">SDE Intern @ BlueMango Labs</tspan> <tspan class="dim">· Jan – Jun 2024</tspan></text>
+    <text x="150" y="338" class="dim">│ Flutter · Firebase · REST APIs · A/B testing</text>
+    <text x="150" y="360">│ <tspan class="grn">+</tspan> 4-round A/B redesign of SuperAstro &amp; Kosmic → +25% usability</text>
+    <text x="150" y="380">│ <tspan class="grn">+</tspan> FCM push → +20% DAU · message broker → 2× peak-hour capacity</text>
+  </g>
+
+  <!-- root -->
+  <g class="c" style="animation-delay:2.1s">
+    <text x="150" y="405"><tspan class="hash">0000000</tspan> <tspan class="tag">(root)</tspan> <tspan class="h">BE Computer Science · RGPV University</tspan> <tspan class="dim">· 2020 – 2024 · GPA 8.7</tspan></text>
+  </g>
+</svg>

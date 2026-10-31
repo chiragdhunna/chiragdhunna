@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-label="neofetch style profile card for Chirag Dhunna">
+  <defs>
+    <linearGradient id="arch" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1793d1"/>
+      <stop offset="1" stop-color="#0b5a85"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace;font-size:17px}
+    .k{fill:#e8ff47;font-weight:700}
+    .v{fill:#c9d1d9}
+    .row{opacity:0;animation:in .5s ease-out forwards}
+    @keyframes in{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:none}}
+    .logo{animation:float 4s ease-in-out infinite}
+    @keyframes float{50%{transform:translateY(-6px)}}
+    .blk{opacity:0;animation:in .4s ease-out forwards}
+  </style>
+
+  <rect width="1000" height="400" rx="14" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="999" height="399" rx="14" fill="none" stroke="#30363d"/>
+  <text x="30" y="40" font-size="15" fill="#8b949e"><tspan fill="#e8ff47">$</tspan> neofetch --profile chirag</text>
+
+  <!-- Arch logo -->
+  <g class="logo" filter="url(#glow)">
+    <path d="M170 70 L255 270 Q232 262 214 262 Q170 262 150 290 Q150 250 190 236 Q158 232 130 262 Q125 258 110 262 Z" fill="url(#arch)" transform="translate(30,-4)"/>
+    <path d="M200 70 L120 262 Q155 232 195 238 Q150 256 145 292 Q168 262 214 262 Q232 262 252 270 Z" fill="none"/>
+  </g>
+  <text x="95" y="345" font-size="15" fill="#1793d1" font-weight="700" letter-spacing="3">ARCH LINUX</text>
+  <text x="95" y="368" font-size="12" fill="#8b949e">btw i use arch</text>
+
+  <!-- info -->
+  <g>
+    <text class="row" style="animation-delay:.2s" x="400" y="86" font-size="22" font-weight="800"><tspan fill="#e8ff47">chirag</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#ff6b35">arch</tspan></text>
+    <text class="row" style="animation-delay:.3s" x="400" y="104" fill="#30363d">──────────────────────────────────────</text>
+
+    <text class="row" style="animation-delay:.45s" x="400" y="134"><tspan class="k">OS</tspan><tspan class="v">         Arch Linux x86_64</tspan></text>
+    <text class="row" style="animation-delay:.6s" x="400" y="160"><tspan class="k">Host</tspan><tspan class="v">       Tata Consultancy Services</tspan></text>
+    <text class="row" style="animation-delay:.75s" x="400" y="186"><tspan class="k">Role</tspan><tspan class="v">       Full Stack Developer</tspan></text>
+    <text class="row" style="animation-delay:.9s" x="400" y="212"><tspan class="k">Shell</tspan><tspan class="v">      Flutter · React · Spring Boot</tspan></text>
+    <text class="row" style="animation-delay:1.05s" x="400" y="238"><tspan class="k">Kernel</tspan><tspan class="v">     LLM workflows &amp; prompt engineering</tspan></text>
+    <text class="row" style="animation-delay:1.2s" x="400" y="264"><tspan class="k">Cloud</tspan><tspan class="v">      AWS SA Associate · Azure SA Expert</tspan></text>
+    <text class="row" style="animation-delay:1.35s" x="400" y="290"><tspan class="k">Uptime</tspan><tspan class="v">     1+ yrs shipping to production</tspan></text>
+    <text class="row" style="animation-delay:1.5s" x="400" y="316"><tspan class="k">Location</tspan><tspan class="v">   Pune, India</tspan></text>
+    <text class="row" style="animation-delay:1.65s" x="400" y="342"><tspan class="k">Education</tspan><tspan class="v">  BE CS · RGPV · 8.7 / 10 GPA</tspan></text>
+
+    <g transform="translate(400,360)">
+      <rect class="blk" style="animation-delay:1.9s" x="0" y="0" width="34" height="18" fill="#0d1117" stroke="#30363d"/>
+      <rect class="blk" style="animation-delay:2.0s" x="34" y="0" width="34" height="18" fill="#ff5f56"/>
+      <rect class="blk" style="animation-delay:2.1s" x="68" y="0" width="34" height="18" fill="#e8ff47"/>
+      <rect class="blk" style="animation-delay:2.2s" x="102" y="0" width="34" height="18" fill="#27c93f"/>
+      <rect class="blk" style="animation-delay:2.3s" x="136" y="0" width="34" height="18" fill="#58a6ff"/>
+      <rect class="blk" style="animation-delay:2.4s" x="170" y="0" width="34" height="18" fill="#bc8cff"/>
+      <rect class="blk" style="animation-delay:2.5s" x="204" y="0" width="34" height="18" fill="#ff6b35"/>
+      <rect class="blk" style="animation-delay:2.6s" x="238" y="0" width="34" height="18" fill="#c9d1d9"/>
+    </g>
+  </g>
+</svg>

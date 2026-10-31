@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Montra personal finance tracker project card">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e8ff47"/>
+      <stop offset="1" stop-color="#ff6b35"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace;fill:#c9d1d9;font-size:14px}
+    .dim{fill:#8b949e}
+    .tile{opacity:0;animation:up .6s ease-out forwards}
+    @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+    .big{font-size:34px;font-weight:800;fill:url(#g)}
+    .chip{opacity:0;animation:up .4s ease-out forwards}
+    .ring{stroke-dasharray:6 10;animation:spin 14s linear infinite;transform-box:fill-box;transform-origin:center}
+    @keyframes spin{to{transform:rotate(360deg)}}
+  </style>
+
+  <rect width="1000" height="300" rx="14" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="999" height="299" rx="14" fill="none" stroke="#30363d"/>
+  <text x="30" y="36" class="dim"><tspan fill="#e8ff47">$</tspan> cat montra/README.md</text>
+
+  <circle class="ring" cx="920" cy="70" r="46" fill="none" stroke="#e8ff47" stroke-opacity=".35" stroke-width="2"/>
+  <text x="920" y="78" text-anchor="middle" font-size="26" style="fill:#e8ff47">₹</text>
+
+  <text x="30" y="84" style="font-size:30px;font-weight:800;fill:url(#g)">Montra</text>
+  <text x="150" y="84" class="dim">personal finance tracker</text>
+  <text x="30" y="112">Budget planning · multi-account support · CSV analytics exports.</text>
+  <text x="30" y="132" class="dim">Offline-first: SQLite on device, synced to PostgreSQL behind an Express API.</text>
+
+  <!-- stack chips -->
+  <g font-size="13">
+    <g class="chip" style="animation-delay:.2s"><rect x="30" y="152" width="74" height="26" rx="13" fill="#02569b" fill-opacity=".35" stroke="#58a6ff"/><text x="67" y="170" text-anchor="middle">Flutter</text></g>
+    <g class="chip" style="animation-delay:.3s"><rect x="112" y="152" width="82" height="26" rx="13" fill="#339933" fill-opacity=".3" stroke="#27c93f"/><text x="153" y="170" text-anchor="middle">Node.js</text></g>
+    <g class="chip" style="animation-delay:.4s"><rect x="202" y="152" width="106" height="26" rx="13" fill="#316192" fill-opacity=".4" stroke="#58a6ff"/><text x="255" y="170" text-anchor="middle">PostgreSQL</text></g>
+    <g class="chip" style="animation-delay:.5s"><rect x="316" y="152" width="74" height="26" rx="13" fill="#444" fill-opacity=".4" stroke="#8b949e"/><text x="353" y="170" text-anchor="middle">SQLite</text></g>
+    <g class="chip" style="animation-delay:.6s"><rect x="398" y="152" width="64" height="26" rx="13" fill="#bc8cff" fill-opacity=".2" stroke="#bc8cff"/><text x="430" y="170" text-anchor="middle">BLoC</text></g>
+    <g class="chip" style="animation-delay:.7s"><rect x="470" y="152" width="56" height="26" rx="13" fill="#ff6b35" fill-opacity=".2" stroke="#ff6b35"/><text x="498" y="170" text-anchor="middle">JWT</text></g>
+  </g>
+
+  <!-- metric tiles -->
+  <g class="tile" style="animation-delay:.5s">
+    <rect x="30" y="200" width="300" height="76" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text x="50" y="238" class="big">&lt; 200ms</text>
+    <text x="50" y="262" class="dim">avg API response</text>
+  </g>
+  <g class="tile" style="animation-delay:.7s">
+    <rect x="350" y="200" width="300" height="76" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text x="370" y="238" class="big">10+</text>
+    <text x="370" y="262" class="dim">categories · real-time dashboard</text>
+  </g>
+  <g class="tile" style="animation-delay:.9s">
+    <rect x="670" y="200" width="300" height="76" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text x="690" y="238" class="big">~3 hrs</text>
+    <text x="690" y="262" class="dim">saved per user, per week</text>
+  </g>
+</svg>
