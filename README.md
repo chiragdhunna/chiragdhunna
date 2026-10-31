@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/neofetch.svg" width="100%" alt="neofetch profile card" />
+  <img src="neofetch.svg" width="100%" alt="neofetch profile card" />
 </div>
 
 <br/>
@@ -29,20 +29,20 @@
 <br/>
 
 <div align="center">
-  <img src="assets/gitlog.svg" width="100%" alt="Career history as a git log graph" />
+  <img src="gitlog.svg" width="100%" alt="Career history as a git log graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/htop.svg" width="100%" alt="Skills as htop meters" />
+  <img src="htop.svg" width="100%" alt="Skills as htop meters" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/chiragdhunna">
-    <img src="assets/project.svg" width="100%" alt="Montra — Personal Finance Tracker" />
+    <img src="project.svg" width="100%" alt="Montra — Personal Finance Tracker" />
   </a>
 </div>
 
